@@ -32,5 +32,7 @@ You must have LycansNewRoles working with your game such as described here : htt
 
 You should now have LycansNewRoles and MyLycansMod.dll into your folder (+ whatever mod you are using).
 
+You can see the randomized values into your BepInEx console but I highly recommand not using it while playing :)
+
 Notice that only the one creating the lobby needs the mod
 
