@@ -2,7 +2,7 @@
 
 The number of players having some roles is randomized every new game (no need to create a new lobby).
 
-## Randomized roles ##
+## Randomized values ##
 - Traitors
 - Solo Roles
 - Secondary Roles
@@ -21,7 +21,7 @@ The Night Fog intensity wil also be randomized every game as [0%,100%]
 
 ## Prerequisites ##
 
-You must have LycansNewRoles working with your game such as described herer : https://thunderstore.io/c/lycans/p/Nales/LycansNewRoles/
+You must have LycansNewRoles working with your game such as described here : https://thunderstore.io/c/lycans/p/Nales/LycansNewRoles/
 
 ## Installation ##
 
